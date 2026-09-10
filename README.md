@@ -1,4 +1,4 @@
-# PICkit_CMD
+# PICkit CMD
 EN:
 
 Scripts for quickly working with PIC microcontrollers using pk2cmd via the PICKit programmer (2/3/their clones) 
@@ -23,9 +23,8 @@ The script will automatically detect the connected microcontroller and perform t
 - Flash.bat — when you drag a [.hex] file onto [Flash.bat], it writes the firmware from the .hex file to the microcontroller. NO BACKUP IS CREATED!
 
 
- 
 --------------------------------------------------------------------------------------------
- 
+
 
 UA:
 
