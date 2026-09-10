@@ -7,7 +7,7 @@ pk2cmd: https://github.com/jaka-fi/pk2cmd
 
 The PK2DeviceFile.dat file was taken from PICkitminus: https://github.com/jaka-fi/PICkitminus
 
-=====================================================================================================
+---------------------------------------------------------------------------------------
 
 Usage:
 
@@ -23,7 +23,7 @@ The script will automatically detect the connected microcontroller and perform t
 - Flash.bat — when you drag a [.hex] file onto [Flash.bat], it writes the firmware from the .hex file to the microcontroller. NO BACKUP IS CREATED!
 
 
-=================================================================================================================================================
+============================================================================================
 
 UA:
 
@@ -33,7 +33,7 @@ pk2cmd: https://github.com/jaka-fi/pk2cmd
 
 Файл PK2DeviceFile.dat взято з PICkitminus: https://github.com/jaka-fi/PICkitminus
 
-=====================================================================================================
+---------------------------------------------------------------------------------------
 
 Використання:
 
