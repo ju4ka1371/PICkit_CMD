@@ -14,13 +14,13 @@ Usage:
 Connect the programmer to your PC and the board, then select the desired .bat file.
 The script will automatically detect the connected microcontroller and perform the necessary actions.
 
-- Backup.bat - Creates a [backup] of the entire firmware.
+- Backup.bat - Creates a **[backup]** of the entire firmware.
 
-- Backup_and_erase.bat - Creates a [backup] of the entire firmware and allows you to [erase ALL] memory (Program Memory + Config bits + EEPROM).
+- Backup_and_erase.bat - Creates a **[backup]** of the entire firmware and allows you to **[erase ALL]** memory (Program Memory + Config bits + EEPROM).
 
-- Backup_and_erase_EEPROM.bat - Creates a [backup] of the entire firmware and allows you to [erase the EEPROM] memory (The EEPROM is filled with FF).
+- Backup_and_erase_EEPROM.bat - Creates a **[backup]** of the entire firmware and allows you to **[erase the EEPROM]** memory (The EEPROM is filled with FF).
 
-- Flash.bat — when you drag a [.hex] file onto [Flash.bat], it writes the firmware from the .hex file to the microcontroller. NO BACKUP IS CREATED!
+- Flash.bat — when you drag a **[.hex]** file onto **[Flash.bat]**, it writes the firmware from the .hex file to the microcontroller. NO BACKUP IS CREATED!
 
 
 --------------------------------------------------------------------------------------------
@@ -41,12 +41,12 @@ pk2cmd: https://github.com/jaka-fi/pk2cmd
 Підключіть програматор до ПК та плати, а потім виберіть потрібний файл .bat.
 Скрипт автоматично виявить підключений мікроконтролер і виконає необхідні дії.
 
-- Backup.bat — створює [резервну копію] всієї прошивки.
+- Backup.bat — створює **[резервну копію]** всієї прошивки.
 
-- Backup_and_erase.bat — створює [резервну копію] всієї прошивки та дозволяє [очистити ВСЮ] пам'ять (Program Memory + Config bits + EEPROM).
+- Backup_and_erase.bat — створює **[резервну копію]** всієї прошивки та дозволяє **[очистити ВСЮ]** пам'ять (Program Memory + Config bits + EEPROM).
 
-- Backup_and_erase_EEPROM.bat — створює [резервну копію] всієї прошивки та дозволяє [очистити пам'ять EEPROM] (EEPROM заповняється FF).
+- Backup_and_erase_EEPROM.bat — створює **[резервну копію]** всієї прошивки та дозволяє **[очистити пам'ять EEPROM]** (EEPROM заповняється FF).
 
-- Flash.bat — коли ви перетягуєте файл [.hex] на [Flash.bat], він записує прошивку з .hex-файлу в мікроконтролер. БЕЗ СТВОРЕННЯ РЕЗЕРВНОЇ КОПІЇ!
+- Flash.bat — коли ви перетягуєте файл **[.hex]** на **[Flash.bat]**, він записує прошивку з .hex-файлу в мікроконтролер. БЕЗ СТВОРЕННЯ РЕЗЕРВНОЇ КОПІЇ!
 
 
